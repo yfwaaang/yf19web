@@ -1,0 +1,45 @@
+ a{
+    margin-left: 0vw;
+    margin-right: 3vw;
+    font-family: helvetica;
+    font-weight: normal;
+        font-size: 30px;
+       }
+body {
+	margin: 0;
+	padding: 0;
+    text-align: center;
+}
+
+p   {
+    font-family: helvetica;
+    color: grey;
+    position: absolute;
+    margin: .65vw .8vw;
+}
+
+#container {
+    margin: 7vw 1vw 2vw 1vw;
+    display: inline-block;
+}
+
+.circle {
+    background-color: #f1f1f1;
+    width:30%;
+    height: 30vw;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: left;
+    margin: -4.5vw;
+    mix-blend-mode: color-burn;
+}
+
+
+
+li {
+    float: left;
+    font-family: 'Cormorant Infant', serif;
+    color: grey;
+}
+
+
